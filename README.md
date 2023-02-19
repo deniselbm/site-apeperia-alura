@@ -1,2 +1,2 @@
-# site-apeperia-alura
-site de teste de apps
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
